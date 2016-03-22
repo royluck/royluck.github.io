@@ -5,16 +5,13 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <!--<p>{{ site.description }}</p>-->
-    <img src="/public/images/picme.jpg">
+    <p>{{ site.description }}</p>
   </div>
 
   <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">主页</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">作品</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">文章</a>
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">生活</a>
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">关于我</a>
+      <a class="sidebar-nav-item" href="/b_essay">归档</a>
+      <a class="sidebar-nav-item" href="/b_projects">作品</a>
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.

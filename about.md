@@ -1,30 +1,39 @@
 ---
 layout: page
-title: About
+title: 关于我
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  　　Hi!我是一名就读于某广东不知名二本大学的在校大学生，并即将于今年6月份正式毕业。我所学专业为：电子信息工程技术，主要学习的内容为数电,模电以及各种编程语言(C语言,汇编...)等.虽然电子信息专业技术也是我当初自己的选择，而且在学校的我学习成绩也不算很差,拿过几次奖学金,也获得过三好学生,也当过系学生会副主席。但是自从大二的时候偶然上了知乎分享,接触到了互联网行业和大神们的创业分享,使我也深深迷上了互联网行业.而且自那时起,我的小心肝里就种下了一颗小小的萌芽,时不时蠢蠢欲动着.但理想虽好,现实却...(此处省略几万字).中间过程,我断断续续,学过CSS,临摹过各网页,也因为舍友影响,学过浅浅的Java等等,所以在这过程中,可以说是了解很多,但却没一样会.在我第一次赴招聘会面试时,当面试官一脸懵逼看着我这个不是计算机专业也没干货而来应聘互联网行业的童鞋时,我才知道那时的我,是多么的~too young too simple(这里应该配个暴走表情)"你有做过项目吗?""没有""你有干货吗?""没有"(泪奔~)<br/>　　所以经历过那次招聘会后,我也知道了自己的不足:
+<br/>　　--没有干货
+<br/>　　--技术不够
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## 基本信息:
 
-There are currently two themes built on Poole:
+* Roy / 男 / 汪 
+* 出生日期：92-06-01
+* 联系方式：zhuzhijia7kouren@163.com
+* 标签:　＃爱折腾#　#喜欢动手#　#兴趣广泛#
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## 学习计划:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Photoshop
+* Html+CSS+Javascript
+* Boodstrap
+* jQuery
+* Nodejs
+* React
 
-## Setup
+## 项目经历:
+* 
+* 
+* 
 
-Some fun facts about the setup of this project include:
+## 求职:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+　　即将于2016年6月份毕业,希望能求得一份互联网前端实习工作.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+---
 
-Thanks for reading!
+thanks for watching!
