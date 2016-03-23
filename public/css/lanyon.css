@@ -162,10 +162,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Sidebar content */
-.sidebar a {
+/* .sidebar a {
   font-weight: normal;
   color: #fff;
-}
+} */
 .sidebar-item {
   padding: 1rem;
 }
@@ -181,6 +181,8 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   padding: .5rem 1rem;
   border-top: 1px solid rgba(255,255,255,.1);
+  font-weight: normal;
+  color: #fff;
 }
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
@@ -190,11 +192,37 @@ a.sidebar-nav-item:focus {
   border-color: transparent;
 }
 
+/*************更改sidebar第三方链接*****************/
+.sidebar-nav {
+  border-bottom: 1px solid rgba(255,255,255,.1);
+}
+.sidebar-nav-fa {
+  display: block;
+  padding: .5rem 1rem;
+  border-top: 1px solid rgba(255,255,255,.1);
+  font-weight: normal;
+  /*color: #000;  /*优先级问题,发现更改字体颜色没变化,受上面控制??*/
+ color: rgba(255,255,255,.6);
+}
+.sidebar-nav-fa.active,
+a.sidebar-nav-fa:hover,
+a.sidebar-nav-fa:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+}
+
+/**************************************/
+
 @media (min-width: 48em) {
   .sidebar-item {
     padding: 1.5rem;
   }
   .sidebar-nav-item {
+    padding-left:  1.5rem;
+    padding-right: 1.5rem;
+  }
+    .sidebar-nav-fa {
     padding-left:  1.5rem;
     padding-right: 1.5rem;
   }
