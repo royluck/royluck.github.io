@@ -155,10 +155,14 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
-@media (min-width: 30em) {
+@media (min-width: 30em) {  /********更改侧边全部字体大小*****/
   .sidebar {
     font-size: .75rem; /* 14px */
   }
+}
+
+.fish{                                       /********更改侧边最下面字体*****/
+  font-size: 13px;
 }
 
 /* Sidebar content */
