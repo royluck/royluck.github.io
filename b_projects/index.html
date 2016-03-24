@@ -1,22 +1,37 @@
 ---
 layout: default
-title: Home
+title: 作品
 ---
+<!--
+site 下的变量
+          site.time 运行 jekyll 的时间
+          site.pages 所有页面
+          site.posts 所有文章
+          site.related_posts 类似的10篇文章,默认最新的10篇文章,指定lsi为相似的文章
+          site.static_files 没有被 jekyll 处理的文章,有属性 path, modified_time 和 extname.
+          site.html_pages 所有的 html 页面
+          site.collections 新功能,没使用过
+          site.data _data 目录下的数据
+          site.documents 所有 collections 里面的文档
+          site.categories 所有的 categorie
+          site.tags 所有的 tag
+          site.[CONFIGURATION_DATA] 自定义变量
+  -->
  <body>
     <div id='layout'>
     <div id='content' class="hp">
       <div id='posts' class="leftblock">
         <ul>
-          {% for post in site.categories.blog %}
-            <li class='post'>
-                  {% if post.image %}
-                          <a href='{{post.url}}'><img class='post-image' src="{{post.image}}" /></a>
+          {% for post in site.categories.projects %}    <!--sit.categories.projects意思为所有标签名为projects的文章for循环输出-->
+            <li class=''>
+                  {% if post.image %}  <!--如果post存在image标签,则执行下面-->
+                          <a href='{{post.url}}'><img class='' src="{{post.image}}" /></a><!---->
                   {% endif %}
-                          <div class="postcontent">     
+                          <div class="">
                                    <a href='{{post.url}}'>
                                              <h1 class='post-title'>{{post.title}}</h1>
                                     </a>
-                                    <div class='post-content'>{{post.summary}}</div>
+                                    <div class=''>{{post.summary}}</div>
                           </div>
                       </li>
           {% endfor %}

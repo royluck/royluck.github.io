@@ -1,0 +1,5 @@
+default.html  -->主分支文件如作品专辑/归档专辑里的index文件都嵌入此款中
+page.htnl  -->"主文件夹/"下的 about.md嵌入此框中		
+post.html  -->post文件夹里都所有md文章都是嵌入此框当中
+
+而post.html和page.html则嵌入default.html中
