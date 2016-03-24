@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为网站添加ICO
-category: studying
+category: Studying
 ---
 
 #### 添加方式: 

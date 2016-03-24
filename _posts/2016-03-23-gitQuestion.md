@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git问题汇总
-category: studying
+category: Studying
 ---
 
 #### 远程库推送不成功
