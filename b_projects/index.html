@@ -22,7 +22,7 @@ site 下的变量
     <div id='content' class="hp">
       <div id='posts' class="leftblock">
         <ul>
-          {% for post in site.categories.projects %}    <!--sit.categories.projects意思为所有标签名为projects的文章for循环输出-->
+          {% for post in site.categories.Projects %}    <!--sit.categories.projects意思为所有标签名为projects的文章for循环输出-->
             <li class=''>
                   {% if post.image %}  <!--如果post存在image标签,则执行下面-->
                           <a href='{{post.url}}'><img class='' src="{{post.image}}" /></a><!---->
