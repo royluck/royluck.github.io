@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSS之margin的重叠之谜
+title: CSS之margin/padding的重叠之谜
 category: Studying
 ---
 
@@ -13,3 +13,7 @@ category: Studying
 	**display: block;**(转化为块级元素,因为img为行内元素)
 	border: 1px solid #000;
 }`
+
++ 父元素存在padding值，其子元素存在margin值，则父元素的padding值会和margin重叠。
+
+[查看demo](http://royluck.github.io/demo/task10/) （==>删除box1内的元素`margin:20px 0px;`会发现没有改变，因为其和`padding:20px;`重叠）
