@@ -22,6 +22,7 @@ title: 关于我
 * Html+CSS+Javascript
 * Boodstrap
 * jQuery
+* 移动端开发（Html5+ HYBRID(native,web)+CSS+JS）
 * Nodejs
 * React
 
