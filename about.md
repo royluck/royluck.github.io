@@ -25,6 +25,8 @@ title: 关于我
 * 移动端开发（Html5+ HYBRID(native,web)+CSS+JS）
 * Nodejs
 * React
+* JSON
+* Ajax
 
 ## 项目经历:
 * 
