@@ -33,6 +33,10 @@ title: 关于我
 * 
 * 
 
+## 我线上电子档简历:
+
+[CLICK HERE](https://github.com/royluck/markdown_images/blob/master/MyResume.jpg)
+
 ## 求职:
 
 　　即将于2016年6月份毕业,希望能求得一份互联网前端实习工作.
