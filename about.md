@@ -33,7 +33,7 @@ title: 关于我
 * 
 * 
 
-## 我线上电子档简历:
+## 线上简历:
 
 [CLICK HERE](https://github.com/royluck/markdown_images/blob/master/MyResume.jpg)
 
