@@ -35,7 +35,7 @@ title: 关于我
 
 ## 线上简历:
 
-[CLICK HERE](https://github.com/royluck/markdown_images/blob/master/MyResume.jpg)
+[CLICK HERE](https://github.com/royluck/markdown_images/blob/master/Myresume.jpg)
 
 ## 求职:
 

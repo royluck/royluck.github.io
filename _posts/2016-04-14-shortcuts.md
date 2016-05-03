@@ -15,3 +15,8 @@ Shit+Ctrl+P
 + ubuntu显示隐藏文件
 
 Ctrl+h
+
++ win7桌面地址
+
+本地硬盘-User-roy-Desktop
+
