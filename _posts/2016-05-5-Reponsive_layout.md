@@ -92,4 +92,18 @@ CSS3-Media Query(最简单的方式)
 
 需避免样式冲突,因为组件本身带有Class样式
 
++ 更改样式主题
+
+`<nav class="navbar navbar-default" role="navigation">`
+
+==>改为:`<nav class="navbar navbar-inverse" role="navigation">`
+
++ 居中
+
+添加Class-container
+
+`<div class="container"></div>`
+
++ 必须有row
+
 
