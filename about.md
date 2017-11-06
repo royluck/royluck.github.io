@@ -41,7 +41,7 @@ title: 关于我
 
 ## 项目经历:
 * [授权通（webapp）](http://ip.5egoo.com.cn/)
-* [猫迹商城（webapp）](test2017.maojimall.com/baseAuth/index.do)
+* [猫迹商城（webapp）](http://test2017.maojimall.com/maojimall/?#/main?a=0)
 * [斯巴鲁摄影活动（H5活动）](http://vote.5egoo.com.cn/url.aspx)
 * [深航体验馆（webapp）](http://tiyanguan.shenzhenair.com/url.aspx)
 * [奇都商城（webapp）](http://gdooo.xkygame.com/webapp/?#/main)
